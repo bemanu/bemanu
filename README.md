@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bemanu
+- 👋 Hi, I’m @Emmanuel Boachie
 - 👀 I’m interested in Gnu/Linux, Java and Python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything that can depen my knowledge as a Junior Dev.
