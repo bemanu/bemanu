@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuel Boachie
 - 👀 I’m interested in Gnu/Linux, Java and Python
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on anything that can depen my knowledge as a Junior Dev.
+- 🌱 I’m currently UI
+- 💞️ I’m looking to collaborate on anything that can deepen my knowledge as a developer.
 - 📫 How to reach me bemanub@gmail.com
 
 <!---
